@@ -1,0 +1,16 @@
+D:\Repositories\dio-defasios-avancados-em-csharp\ConsoleApp2\bin\Debug\net5.0\ConsoleApp2.exe
+D:\Repositories\dio-defasios-avancados-em-csharp\ConsoleApp2\bin\Debug\net5.0\ConsoleApp2.deps.json
+D:\Repositories\dio-defasios-avancados-em-csharp\ConsoleApp2\bin\Debug\net5.0\ConsoleApp2.runtimeconfig.json
+D:\Repositories\dio-defasios-avancados-em-csharp\ConsoleApp2\bin\Debug\net5.0\ConsoleApp2.runtimeconfig.dev.json
+D:\Repositories\dio-defasios-avancados-em-csharp\ConsoleApp2\bin\Debug\net5.0\ConsoleApp2.dll
+D:\Repositories\dio-defasios-avancados-em-csharp\ConsoleApp2\bin\Debug\net5.0\ref\ConsoleApp2.dll
+D:\Repositories\dio-defasios-avancados-em-csharp\ConsoleApp2\bin\Debug\net5.0\ConsoleApp2.pdb
+D:\Repositories\dio-defasios-avancados-em-csharp\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.csproj.AssemblyReference.cache
+D:\Repositories\dio-defasios-avancados-em-csharp\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\dio-defasios-avancados-em-csharp\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.AssemblyInfoInputs.cache
+D:\Repositories\dio-defasios-avancados-em-csharp\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.AssemblyInfo.cs
+D:\Repositories\dio-defasios-avancados-em-csharp\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\Repositories\dio-defasios-avancados-em-csharp\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.dll
+D:\Repositories\dio-defasios-avancados-em-csharp\ConsoleApp2\obj\Debug\net5.0\ref\ConsoleApp2.dll
+D:\Repositories\dio-defasios-avancados-em-csharp\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.pdb
+D:\Repositories\dio-defasios-avancados-em-csharp\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Repositories\dio-defasios-avancados-em-csharp\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+D:\Repositories\dio-defasios-avancados-em-csharp\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+D:\Repositories\dio-defasios-avancados-em-csharp\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+D:\Repositories\dio-defasios-avancados-em-csharp\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+D:\Repositories\dio-defasios-avancados-em-csharp\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+D:\Repositories\dio-defasios-avancados-em-csharp\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+D:\Repositories\dio-defasios-avancados-em-csharp\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+D:\Repositories\dio-defasios-avancados-em-csharp\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Repositories\dio-defasios-avancados-em-csharp\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\dio-defasios-avancados-em-csharp\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Repositories\dio-defasios-avancados-em-csharp\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+D:\Repositories\dio-defasios-avancados-em-csharp\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Repositories\dio-defasios-avancados-em-csharp\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+D:\Repositories\dio-defasios-avancados-em-csharp\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+D:\Repositories\dio-defasios-avancados-em-csharp\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+D:\Repositories\dio-defasios-avancados-em-csharp\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
